@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "updates": [
+        {
+            "identifier": "examplemod",
+            "host": {
+                "meta": "https://github.com/mbien1981/auto-update-test/releases/download/auto-update/meta.json",
+                "download": "https://github.com/mbien1981/auto-update-test/archive/refs/heads/main.zip",
+                "patchnotes": "https://github.com/mbien1981/auto-update-test/commits/main/"
+            }
+        }
+    ]
+}

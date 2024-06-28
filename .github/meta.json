@@ -1,0 +1,8 @@
+[
+    {
+        "ident": "examplemod",
+        "version": "%VERSION%",
+        "patchnotes_url": "https://github.com/mbien1981/auto-update-test/commits/main/",
+        "download_url": "https://github.com/mbien1981/auto-update-test/archive/refs/heads/main.zip"
+    }
+]
